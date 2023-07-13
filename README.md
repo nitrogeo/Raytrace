@@ -14,7 +14,7 @@ Raycast is a phenomenal app launcher with a beautiful, modern design. Sadly, it 
 
 ## 🛠️ Installation
 1. Download the Raytrace .xaml file.
-2. Save it into your Flow launcher theme directory at C:\Users\YOUR USERNAME\AppData\Roaming\FlowLauncher\Themes
+2. Save it into your Flow launcher theme directory at `C:\Users\YOUR USERNAME\AppData\Roaming\FlowLauncher\Themes`
 3. Apply the theme in the Flow Launcher settings
 
 
