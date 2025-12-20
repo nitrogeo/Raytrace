@@ -1,9 +1,13 @@
 # 🎨 Raytrace
 A Raycast theme for Flow Launcher.
 
-Raycast is a phenomenal app launcher with a beautiful, modern design. Sadly, it is currently only available for macOS, with no plans to port it to Windows or any other OS for that matter. More info: {https://youtu.be/Lr7etNkQIsM?t=99}
+Raycast is a phenomenal app launcher with a beautiful design.
+I have attempted to capture this design in this theme for Flow Launcher.
 
-(Note: their reasoning is that you can't port Swift applications to non-Apple platforms, but, rather ironically, Arc Browser from The Browser Company claims to be doing just that. More info: {https://www.youtube.com/watch?v=Xa_fNuaSE_I})
+~~Sadly, it is currently only available for macOS, with no plans to port it to Windows or any other OS for that matter. More info: {https://youtu.be/Lr7etNkQIsM?t=99}~~ 
+~~(Note: their reasoning is that you can't port Swift applications to non-Apple platforms, but, rather ironically, Arc Browser from The Browser Company claims to be doing just that. More info: {https://www.youtube.com/watch?v=Xa_fNuaSE_I})~~
+revision: as of 12.20.2025 they have had a beta for Windows for a few months now.
+
 
 ## 🖼️ Theme Preview
 ![raytrace blank](https://github.com/SamFrox/Raytrace/assets/108837401/bfd77f6d-3b50-4007-8f53-355adca759ce)
