@@ -23,6 +23,9 @@ revision: as of 12.20.2025 they have had a beta for Windows for a few months now
 2. Save it into your Flow launcher theme directory at `C:\Users\YOUR USERNAME\AppData\Roaming\FlowLauncher\Themes`
 3. Apply the theme in the Flow Launcher settings.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nitrogeo/Raytrace&type=date&legend=top-left)](https://www.star-history.com/#nitrogeo/Raytrace&type=date&legend=top-left)
 
 ## 🪪 Credits
 - https://www.iloveimg.com/crop-image
